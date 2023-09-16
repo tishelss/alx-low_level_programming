@@ -5,7 +5,6 @@
   *
   * Return: The numbers since 0 up to 9
   */
-typedef int make_iso_compilers_happy;
 void print_numbers(void)
 {
 	int x;
